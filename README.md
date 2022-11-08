@@ -1,7 +1,10 @@
 # Twitter Clone
 Let’s make simple Twitter. Users can post tweets and see everyone’s them. To make the project simple, we do not have a sign/login function. So there are not user accounts and follow function. You can challenge after you finish the course. This Twitter Clone is a small project using the HTML/CSS/JavaScipt/Django Framework and Bootstrap. I will be using the this to showcase my projects and skills [LIVE REPLIT DEPLOYMENT]()
 
-# Screenshot:
+# Screenshot:!
+
+<img width="1295" alt="Screenshot 2022-11-08 at 09 32 48" src="https://user-images.githubusercontent.com/102286564/200472484-edf2467e-1fb8-4984-a755-15a96c0a100b.png">
+
 
 # Technologies Used:
 * Html
